@@ -5,6 +5,9 @@
 <!-- ![heder (2)](https://github.com/Pure-coder007/Pure-coder007/assets/100721103/df275488-d165-4af4-8919-e4e1caeb48b4) -->
 
 
+![github-header-image](https://github.com/Pure-coder007/Pure-coder007/assets/125186879/cffa63c6-c5f8-44b7-b8fe-34c6f989956f)
+
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iamengrmark)
 
 <!-- As a recent graduate, I have a strong background in Software Engineering. During my time as a student at [AltSchool Africa](https://www.altschoolafrica.com/), I completed their Backend Engineering program and developed a passion for problem-solving, knowledge-sharing, and accessibility in software development. Throughout my studies and subsequent experiences, I have faced numerous challenges that have strengthened my skills and determination.  -->
