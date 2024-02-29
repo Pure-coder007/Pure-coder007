@@ -2,7 +2,7 @@
 
 <!--![header](https://user-images.githubusercontent.com/100721103/231540299-aecd3ad7-f365-41f4-8d13-8031bb1818a0.png) -->
 
-![heder (2)](https://github.com/Pure-coder007/Pure-coder007/assets/100721103/df275488-d165-4af4-8919-e4e1caeb48b4)
+<!-- ![heder (2)](https://github.com/Pure-coder007/Pure-coder007/assets/100721103/df275488-d165-4af4-8919-e4e1caeb48b4) -->
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iamengrmark)
