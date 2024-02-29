@@ -8,7 +8,7 @@
 ![github-header-image](https://github.com/Pure-coder007/Pure-coder007/assets/125186879/cffa63c6-c5f8-44b7-b8fe-34c6f989956f)
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iamengrmark)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ukah007)
 
 <!-- As a recent graduate, I have a strong background in Software Engineering. During my time as a student at [AltSchool Africa](https://www.altschoolafrica.com/), I completed their Backend Engineering program and developed a passion for problem-solving, knowledge-sharing, and accessibility in software development. Throughout my studies and subsequent experiences, I have faced numerous challenges that have strengthened my skills and determination.  -->
 An experienced software developer with a passion for problem-solving and innovation. I have worked on a variety of [projects](https://github.com/Pure-coder007?tab=repositories), and I am ready to embark on new and exciting projects. Let's collaborate and build something extraordinary together!
@@ -22,7 +22,7 @@ An experienced software developer with a passion for problem-solving and innovat
 - 😊 Pronouns: he/him
 - 💡 Fun fact: I love football (watching and playing), I enjoy writing code 😊.
 - 💼 A Backend Developer at Speedpay Finance Limited.
-- 📫 You can [view my resume]() and contact me at example@yahoo.com.
+- 📫 You can [view my resume]() and contact me at kingsleydike318@gmail.com.
 
 ---
 #### Tech Stacks:
