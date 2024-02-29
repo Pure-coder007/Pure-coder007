@@ -4,8 +4,7 @@
 
 <!-- ![heder (2)](https://github.com/Pure-coder007/Pure-coder007/assets/100721103/df275488-d165-4af4-8919-e4e1caeb48b4) -->
 
-
-![github-header-image](https://github.com/Pure-coder007/Pure-coder007/assets/125186879/cffa63c6-c5f8-44b7-b8fe-34c6f989956f)
+![image](https://github.com/Pure-coder007/Pure-coder007/assets/125186879/78382f67-a987-4f95-bcae-8127fe3cc5d1)
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ukah007)
