@@ -21,7 +21,7 @@ A software developer with a passion for problem-solving and innovation. I have w
 - 😊 Pronouns: he/him
 - 💡 Fun fact: I love football (watching and playing), I enjoy writing code 😊.
 - 💼 A Backend Developer at Speedpay Finance Limited.
-- 📫 You can [view my resume]() and contact me at kingsleydike318@gmail.com.
+- 📫 You can [view my resume](https://1drv.ms/w/c/644f3a68ed70cd3e/Ec9DrfcD1dpJlI7Y-xg--70B-f7Pv6-a5MZaiSjjzJhRuA?e=60ZpgG) and contact me at kingsleydike318@gmail.com.
 
 ---
 #### Tech Stacks:
