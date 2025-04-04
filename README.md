@@ -39,6 +39,11 @@ A software developer with a passion for problem-solving and innovation. I have w
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Django MySQL](https://img.shields.io/badge/django%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&label=MySQL&color=4479A1)
+![Django Docker](https://img.shields.io/badge/django%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&label=Docker&color=2496ED)
+
 ---
 
 
